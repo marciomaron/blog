@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>MÁRCIO MARON</title>
-    <link href="https://marciomaron.github.io/blog/feed.xml" rel="self" />
-    <link href="https://marciomaron.github.io/blog" />
+    <link href="file:////Users/marciomaron/Library/Mobile Documents/com~apple~CloudDocs/Documents/Sites/marcio-maron/preview/feed.xml" rel="self" />
+    <link href="file:////Users/marciomaron/Library/Mobile Documents/com~apple~CloudDocs/Documents/Sites/marcio-maron/preview" />
     <updated>2025-01-02T22:21:25-03:00</updated>
     <author>
         <name>Márcio Maron</name>
     </author>
-    <id>https://marciomaron.github.io/blog</id>
+    <id>file:////Users/marciomaron/Library/Mobile Documents/com~apple~CloudDocs/Documents/Sites/marcio-maron/preview</id>
 
     <entry>
         <title>Regulamentação da Reforma Tributária - PLP 68/2024</title>
         <author>
             <name>Márcio Maron</name>
         </author>
-        <link href="https://marciomaron.github.io/blog/regulamentacao-da-reforma-tributaria-plp-682024.html"/>
-        <id>https://marciomaron.github.io/blog/regulamentacao-da-reforma-tributaria-plp-682024.html</id>
+        <link href="file:////Users/marciomaron/Library/Mobile Documents/com~apple~CloudDocs/Documents/Sites/marcio-maron/preview/regulamentacao-da-reforma-tributaria-plp-682024.html"/>
+        <id>file:////Users/marciomaron/Library/Mobile Documents/com~apple~CloudDocs/Documents/Sites/marcio-maron/preview/regulamentacao-da-reforma-tributaria-plp-682024.html</id>
             <category term="Reforma tributária"/>
 
         <updated>2025-01-02T22:21:25-03:00</updated>
@@ -62,8 +62,8 @@
         <author>
             <name>Márcio Maron</name>
         </author>
-        <link href="https://marciomaron.github.io/blog/a-reforma-tributaria.html"/>
-        <id>https://marciomaron.github.io/blog/a-reforma-tributaria.html</id>
+        <link href="file:////Users/marciomaron/Library/Mobile Documents/com~apple~CloudDocs/Documents/Sites/marcio-maron/preview/a-reforma-tributaria.html"/>
+        <id>file:////Users/marciomaron/Library/Mobile Documents/com~apple~CloudDocs/Documents/Sites/marcio-maron/preview/a-reforma-tributaria.html</id>
             <category term="Reforma tributária"/>
 
         <updated>2025-01-02T21:35:50-03:00</updated>
