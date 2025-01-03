@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://marciomaron.github.io/blog/sitemap.xml
