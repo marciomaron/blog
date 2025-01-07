@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://marciomaron.github.io/blog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://marciomaron.github.io/blog/</loc>
+</url>
+<url>
+<loc>https://marciomaron.github.io/blog/contato.html</loc>
+<lastmod>2025-01-03T17:58:06-03:00</lastmod>
+</url>
+<url>
+<loc>https://marciomaron.github.io/blog/o-historico-da-reforma-tributaria.html</loc>
+<lastmod>2025-01-05T09:55:38-03:00</lastmod>
+</url>
+<url>
+<loc>https://marciomaron.github.io/blog/perfil.html</loc>
+<lastmod>2025-01-03T17:36:49-03:00</lastmod>
+<image:image>
+<image:loc>https://marciomaron.github.io/blog/media/posts/5/perfil-banner2-jpg.jpg</image:loc>
+<image:title><![CDATA[Perfil]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://marciomaron.github.io/blog/politica-de-privacidade.html</loc>
+<lastmod>2025-01-03T14:19:51-03:00</lastmod>
+</url>
+</urlset>
