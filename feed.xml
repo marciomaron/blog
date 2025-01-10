@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>| MÁRCIO MARON</title>
-    <link href="file:////Users/marciomaron/Library/Mobile Documents/com~apple~CloudDocs/Documents/Sites/or-marcio-maron/preview/feed.xml" rel="self" />
-    <link href="file:////Users/marciomaron/Library/Mobile Documents/com~apple~CloudDocs/Documents/Sites/or-marcio-maron/preview" />
+    <link href="https://marciomaron.github.io/blog/feed.xml" rel="self" />
+    <link href="https://marciomaron.github.io/blog" />
     <updated>2025-01-05T09:55:38-03:00</updated>
     <author>
         <name>Márcio Maron</name>
     </author>
-    <id>file:////Users/marciomaron/Library/Mobile Documents/com~apple~CloudDocs/Documents/Sites/or-marcio-maron/preview</id>
+    <id>https://marciomaron.github.io/blog</id>
 
     <entry>
         <title>O histórico da reforma tributária</title>
         <author>
             <name>Márcio Maron</name>
         </author>
-        <link href="file:////Users/marciomaron/Library/Mobile Documents/com~apple~CloudDocs/Documents/Sites/or-marcio-maron/preview/o-historico-da-reforma-tributaria.html"/>
-        <id>file:////Users/marciomaron/Library/Mobile Documents/com~apple~CloudDocs/Documents/Sites/or-marcio-maron/preview/o-historico-da-reforma-tributaria.html</id>
+        <link href="https://marciomaron.github.io/blog/o-historico-da-reforma-tributaria.html"/>
+        <id>https://marciomaron.github.io/blog/o-historico-da-reforma-tributaria.html</id>
             <category term="Reforma tributária"/>
 
         <updated>2025-01-03T18:34:54-03:00</updated>
